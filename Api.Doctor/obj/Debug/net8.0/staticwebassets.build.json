@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZDJcDy2k+eqCudsNjBDUO4DXvDqkncstHjpcuOkoAxk=",
+  "Source": "Api.Doctor",
+  "BasePath": "_content/Api.Doctor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

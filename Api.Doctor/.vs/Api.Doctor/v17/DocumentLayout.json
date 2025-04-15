@@ -1,0 +1,1783 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Doctor\\Api.Doctor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\supporterlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\supporterlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\specializationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\specializationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\sequelizemetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\sequelizemetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\extrainforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\extrainforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\doctoruserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\doctoruserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\implementations\\clinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\implementations\\clinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\bases\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\bases\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\bases\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\bases\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\isupporterlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\isupporterlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\ispecializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\ispecializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\isequelizemetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\isequelizemetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\iplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\iplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\iextrainfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\iextrainfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\idoctoruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\idoctoruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\interfaces\\iclinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\interfaces\\iclinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\supporterlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\supporterlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\specializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\specializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\sequelizemetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\sequelizemetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\placeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\placeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\extrainfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\extrainfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\doctoruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\doctoruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\implementations\\clinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\implementations\\clinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\bases\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\bases\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\services\\bases\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:services\\bases\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\supporterlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\supporterlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\sequelizemeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\sequelizemeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\extrainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\extrainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\doctoruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\doctoruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\models\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:models\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\efcorecontext\\doctorcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:efcorecontext\\doctorcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\ischedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\ischedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\iclinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\iclinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\isupporterlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\isupporterlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\istatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\istatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\ispecializationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\ispecializationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\isequelizemetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\isequelizemetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\iextrainforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\iextrainforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\idoctoruserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\idoctoruserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\repositories\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:repositories\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\updatescheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\updatescheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\updateclinicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\updateclinicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\supporterlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\supporterlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\specializationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\specializationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\createscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\createscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\createclinicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\createclinicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\clinicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\clinicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|d:\\doctor\\api.doctor\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EDC6B6-C9B9-4C61-9FB8-BE5D5C6D9146}|Api.Doctor.csproj|solutionrelative:dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\SessionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\SessionRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\SessionRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\SessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:31:03.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpecializationRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\SpecializationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\SpecializationRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\SpecializationRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\SpecializationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:31:06.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\StatusRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\StatusRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\StatusRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\StatusRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:31:09.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupporterLogRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\SupporterLogRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\SupporterLogRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\SupporterLogRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\SupporterLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:31:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\UserRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:31:16.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SequelizeMetaRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\SequelizeMetaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\SequelizeMetaRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\SequelizeMetaRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\SequelizeMetaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:31:00.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScheduleRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\ScheduleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ScheduleRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\ScheduleRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:30:57.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\RoleRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\RoleRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\RoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:30:30.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\PostRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\PostRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\PostRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:30:20.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlaceRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\PlaceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\PlaceRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\PlaceRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\PlaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:30:06.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\PatientRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\PatientRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:29:43.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExtraInfoRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\ExtraInfoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ExtraInfoRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\ExtraInfoRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ExtraInfoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:29:29.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorUserRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\DoctorUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\DoctorUserRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\DoctorUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\DoctorUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:29:10.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\CommentRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\CommentRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:28:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClinicRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\ClinicRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ClinicRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Implementations\\ClinicRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ClinicRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:28:09.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Bases\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Bases\\IBaseRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Bases\\IBaseRepository.cs",
+              "RelativeToolTip": "Repositories\\Bases\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:28:02.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Bases\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Bases\\BaseRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Bases\\BaseRepository.cs",
+              "RelativeToolTip": "Repositories\\Bases\\BaseRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:51.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:38:50.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISupporterLogService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\ISupporterLogService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ISupporterLogService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\ISupporterLogService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ISupporterLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:38:47.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IStatusService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IStatusService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IStatusService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IStatusService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:38:43.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISpecializationService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\ISpecializationService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ISpecializationService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\ISpecializationService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ISpecializationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:38:39.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISessionService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\ISessionService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ISessionService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\ISessionService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ISessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:38:33.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISequelizeMetaService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\ISequelizeMetaService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ISequelizeMetaService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\ISequelizeMetaService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ISequelizeMetaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:38:29.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IScheduleService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IScheduleService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IScheduleService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IScheduleService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:38:09.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IRoleService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:37:58.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IPostService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPostService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IPostService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:37:42.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPlaceService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IPlaceService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPlaceService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IPlaceService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPlaceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:37:31.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPatientService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:37:09.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IExtraInfoService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IExtraInfoService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IExtraInfoService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IExtraInfoService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IExtraInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:36:57.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDoctorUserService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IDoctorUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IDoctorUserService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IDoctorUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IDoctorUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:36:41.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICommentService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\ICommentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:36:24.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IClinicService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IClinicService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IClinicService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Interfaces\\IClinicService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IClinicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:36:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\UserService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:43:57.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SupporterLogService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\SupporterLogService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\SupporterLogService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\SupporterLogService.cs",
+              "RelativeToolTip": "Services\\Implementations\\SupporterLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:44:27.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StatusService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\StatusService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\StatusService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\StatusService.cs",
+              "RelativeToolTip": "Services\\Implementations\\StatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:46:15.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SpecializationService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\SpecializationService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\SpecializationService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\SpecializationService.cs",
+              "RelativeToolTip": "Services\\Implementations\\SpecializationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:46:12.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\SessionService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\SessionService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\SessionService.cs",
+              "RelativeToolTip": "Services\\Implementations\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:46:09.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SequelizeMetaService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\SequelizeMetaService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\SequelizeMetaService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\SequelizeMetaService.cs",
+              "RelativeToolTip": "Services\\Implementations\\SequelizeMetaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:45:56.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ScheduleService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\ScheduleService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:45:53.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\RoleService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\RoleService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\RoleService.cs",
+              "RelativeToolTip": "Services\\Implementations\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:38:28.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PlaceService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\PlaceService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\PlaceService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\PlaceService.cs",
+              "RelativeToolTip": "Services\\Implementations\\PlaceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:45:44.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\PatientService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\PatientService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\PatientService.cs",
+              "RelativeToolTip": "Services\\Implementations\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:35:39.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ExtraInfoService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\ExtraInfoService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ExtraInfoService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\ExtraInfoService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ExtraInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:35:16.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DoctorUserService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\DoctorUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\DoctorUserService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\DoctorUserService.cs",
+              "RelativeToolTip": "Services\\Implementations\\DoctorUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:34:59.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\CommentService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CommentService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\CommentService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:45:09.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ClinicService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\ClinicService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ClinicService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\ClinicService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ClinicService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:34:00.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\PostService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\PostService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Implementations\\PostService.cs",
+              "RelativeToolTip": "Services\\Implementations\\PostService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:45:48.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Bases\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Services\\Bases\\IBaseService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Bases\\IBaseService.cs",
+              "RelativeToolTip": "Services\\Bases\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:33:47.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Services\\Bases\\BaseService.cs",
+              "RelativeDocumentMoniker": "Services\\Bases\\BaseService.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Services\\Bases\\BaseService.cs",
+              "RelativeToolTip": "Services\\Bases\\BaseService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:33:18.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:21:50.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SupporterLog.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\SupporterLog.cs",
+              "RelativeDocumentMoniker": "Models\\SupporterLog.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\SupporterLog.cs",
+              "RelativeToolTip": "Models\\SupporterLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:21:41.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Models\\Status.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\Status.cs",
+              "RelativeToolTip": "Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:21:33.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\Specialization.cs",
+              "RelativeDocumentMoniker": "Models\\Specialization.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\Specialization.cs",
+              "RelativeToolTip": "Models\\Specialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:21:34.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "Models\\Session.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\Session.cs",
+              "RelativeToolTip": "Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:21:30.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SequelizeMeta.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\SequelizeMeta.cs",
+              "RelativeDocumentMoniker": "Models\\SequelizeMeta.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\SequelizeMeta.cs",
+              "RelativeToolTip": "Models\\SequelizeMeta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:21:26.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "Models\\Schedule.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\Schedule.cs",
+              "RelativeToolTip": "Models\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:21:21.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:21:18.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:21:14.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Place.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\Place.cs",
+              "RelativeDocumentMoniker": "Models\\Place.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\Place.cs",
+              "RelativeToolTip": "Models\\Place.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:21:10.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:21:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ExtraInfo.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\ExtraInfo.cs",
+              "RelativeDocumentMoniker": "Models\\ExtraInfo.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\ExtraInfo.cs",
+              "RelativeToolTip": "Models\\ExtraInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:20:58.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DoctorUser.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\DoctorUser.cs",
+              "RelativeDocumentMoniker": "Models\\DoctorUser.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\DoctorUser.cs",
+              "RelativeToolTip": "Models\\DoctorUser.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:20:50.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:20:46.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Clinic.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Models\\Clinic.cs",
+              "RelativeDocumentMoniker": "Models\\Clinic.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Models\\Clinic.cs",
+              "RelativeToolTip": "Models\\Clinic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:20:30.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T07:55:09.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DoctorCareDbContext.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\EFCoreContext\\DoctorCareDbContext.cs",
+              "RelativeDocumentMoniker": "EFCoreContext\\DoctorCareDbContext.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\EFCoreContext\\DoctorCareDbContext.cs",
+              "RelativeToolTip": "EFCoreContext\\DoctorCareDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:39:36.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:19:56.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IPatientRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IPatientRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:38.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IPlaceRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IPlaceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IPlaceRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IPlaceRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IPlaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:41.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IPostRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IPostRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:44.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRoleRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IRoleRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:47.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IScheduleRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IScheduleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IScheduleRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IScheduleRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:51.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IClinicRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IClinicRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IClinicRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IClinicRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IClinicRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:03.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:33:11.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ISupporterLogRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\ISupporterLogRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ISupporterLogRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\ISupporterLogRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ISupporterLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:33:04.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IStatusRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IStatusRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IStatusRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IStatusRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IStatusRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:33:04.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ISpecializationRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\ISpecializationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ISpecializationRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\ISpecializationRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ISpecializationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:33:01.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ISessionRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\ISessionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ISessionRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\ISessionRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ISessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:57.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ISequelizeMetaRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\ISequelizeMetaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ISequelizeMetaRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\ISequelizeMetaRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ISequelizeMetaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:54.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IExtraInfoRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IExtraInfoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IExtraInfoRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IExtraInfoRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IExtraInfoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:35.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IDoctorUserRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IDoctorUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IDoctorUserRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\IDoctorUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IDoctorUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:25.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\Repositories\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:03.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:34.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateUserDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\UpdateUserDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:31.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "UpdateScheduleDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\UpdateScheduleDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateScheduleDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\UpdateScheduleDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateScheduleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:28.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UpdateClinicDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\UpdateClinicDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateClinicDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\UpdateClinicDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateClinicDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:25.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "SupporterLogDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\SupporterLogDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\SupporterLogDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\SupporterLogDto.cs",
+              "RelativeToolTip": "DTOs\\SupporterLogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:22.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SpecializationDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\SpecializationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\SpecializationDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\SpecializationDto.cs",
+              "RelativeToolTip": "DTOs\\SpecializationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:19.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ScheduleDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\ScheduleDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ScheduleDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\ScheduleDto.cs",
+              "RelativeToolTip": "DTOs\\ScheduleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:16.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterRequestDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\RegisterRequestDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:13.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\PostDto.cs",
+              "RelativeToolTip": "DTOs\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:10.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\PatientDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PatientDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\PatientDto.cs",
+              "RelativeToolTip": "DTOs\\PatientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:07.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:05.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "DoctorDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\DoctorDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DoctorDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\DoctorDto.cs",
+              "RelativeToolTip": "DTOs\\DoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:27:02.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateUserDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "DTOs\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:26:59.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "CreateScheduleDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\CreateScheduleDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateScheduleDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\CreateScheduleDto.cs",
+              "RelativeToolTip": "DTOs\\CreateScheduleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:26:57.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreatePostDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\CreatePostDto.cs",
+              "RelativeToolTip": "DTOs\\CreatePostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:26:36.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateCommentDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\CreateCommentDto.cs",
+              "RelativeToolTip": "DTOs\\CreateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:26:28.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "CreateClinicDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\CreateClinicDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateClinicDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\CreateClinicDto.cs",
+              "RelativeToolTip": "DTOs\\CreateClinicDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:26:08.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\CommentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CommentDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\CommentDto.cs",
+              "RelativeToolTip": "DTOs\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:26:09.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ClinicDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\ClinicDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ClinicDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\ClinicDto.cs",
+              "RelativeToolTip": "DTOs\\ClinicDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:26:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "D:\\Doctor\\Api.Doctor\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthResponseDto.cs",
+              "ToolTip": "D:\\Doctor\\Api.Doctor\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:25:32.92Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
